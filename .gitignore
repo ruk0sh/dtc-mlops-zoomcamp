@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# Jupyter
+Untitled.ipynb
+.ipynb_checkpoints
+
+# Artifacts
+models
