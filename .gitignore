@@ -5,5 +5,12 @@
 Untitled.ipynb
 .ipynb_checkpoints
 
+# MLFlow
+mlruns
+mlflow.db
+
 # Artifacts
+artifacts
 models
+!src/models
+from hashlib import sha1
