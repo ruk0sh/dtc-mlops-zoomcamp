@@ -9,8 +9,12 @@ Untitled.ipynb
 mlruns
 mlflow.db
 
+# Prefect
+prefect
+
 # Artifacts
 artifacts
 models
+predictions
 !src/models
 from hashlib import sha1

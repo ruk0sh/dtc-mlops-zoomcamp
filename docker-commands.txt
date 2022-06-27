@@ -1,0 +1,2 @@
+docker build -t dtc-mlops-hw5 .
+docker run --rm dtc-mlops-hw5 model.bin 2021 4
